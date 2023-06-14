@@ -1,8 +1,8 @@
-# avx512-z690-gaming-x-ddr4
+# avx512-z690-aorus-master
 Enables AVX-512 instruction set - rename .fd to gigabyte.bin on a FAT32 usb stick and flash with Q-Flash button on motherboard afterwards.
 
 ## Requirements
-* A 12th-Gen Intel CPU that has P-Cores with AVX-512 (For more information how to find out if your CPU has it, [Click here](https://github.com/zingaburga/alderlake_avx512/wiki))
+* A 12th-Gen Intel CPU that has P-Cores with AVX-512 (For more information how to find out if your CPU has it, [Click here](https://github.com/zingaburga/alderlake_avx512/wiki)) Need to disable SMT and E cores in my case
 
 
 ## Instructions
